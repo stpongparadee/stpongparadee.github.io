@@ -1,0 +1,48 @@
+@font-face {
+   font-family: "Baskerville";
+   src: url("fonts/Baskerville Light-Italic.ttf") format("truetype");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Baskerville";
+   src: url("fonts/Baskerville Light.ttf") format("truetype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Baskerville";
+   src: url("fonts/Baskerville.ttf") format("truetype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Baskerville";
+   src: url("fonts/Baskerville Bold.ttf") format("truetype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Baskerville";
+   src: url("fonts/Baskerville-Light.ttf") format("truetype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Baskerville";
+   src: url("fonts/Baskerville-Normal.woff") format("woff"), url("fonts/Baskerville-Normal.eot") format("embedded-opentype"), url("fonts/Baskerville-Normal.ttf") format("truetype"), url("fonts/Baskerville-Normal.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Artifakt Element Hair";
+   src: url("fonts/Artifakt Element Hair Italic.woff") format("woff"), url("fonts/Artifakt Element Hair Italic.eot") format("embedded-opentype"), url("fonts/Artifakt Element Hair Italic.ttf") format("truetype"), url("fonts/Artifakt Element Hair Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Artifakt Element Hair";
+   src: url("fonts/ArtifaktElement-Hair.woff") format("woff"), url("fonts/ArtifaktElement-Hair.eot") format("embedded-opentype"), url("fonts/ArtifaktElement-Hair.ttf") format("truetype"), url("fonts/ArtifaktElement-Hair.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
